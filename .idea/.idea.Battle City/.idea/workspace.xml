@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc495898-0b59-4642-b53d-e4c1470b4e27" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Battle City/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Battle City/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Battle City/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Battle City/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/.vs/Knife_HIt/DesignTimeBuild/.dtbcache" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/.vs/Knife_HIt/DesignTimeBuild/.dtbcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/.vs/Knife_HIt/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/.vs/Knife_HIt/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/.vs/Knife_HIt/v15/Server/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/.vs/Knife_HIt/v15/Server/sqlite3/storage.ide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/.vs/Knife_HIt/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/.vs/Knife_HIt/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/.vs/Knife_HIt/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/.vs/Knife_HIt/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/13732.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/13732.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Bowie_Knife.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Bowie_Knife.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Materials.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Materials/13732.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Materials/13732.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Materials/13732.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Materials/13732.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Scripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Scripts.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Scripts/Knife.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Scripts/Knife.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Scripts/Knife.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Scripts/Knife.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Scripts/Knife_Spawn.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Scripts/Knife_Spawn.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Scripts/Knife_Spawn.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Scripts/Knife_Spawn.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Scripts/Wood_Rotate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Scripts/Wood_Rotate.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Scripts/Wood_Rotate.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Scripts/Wood_Rotate.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Bowie_Knife.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Bowie_Knife.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Bowie_Knife.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Bowie_Knife.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Mesh.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Mesh.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Mesh/Bowie_Knife.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Mesh/Bowie_Knife.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Mesh/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Mesh/Materials.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Mesh/Materials/Bowie_Knife_unwrapChekcerShaderSG1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Mesh/Materials/Bowie_Knife_unwrapChekcerShaderSG1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Mesh/Materials/Bowie_Knife_unwrapChekcerShaderSG1.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Mesh/Materials/Bowie_Knife_unwrapChekcerShaderSG1.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Prefab/Bowie_Knife_v2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Prefab/Bowie_Knife_v2.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Prefab/Bowie_Knife_v2.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Prefab/Bowie_Knife_v2.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version1.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version1.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version1/Bowie_Knife_unwrapChekcerShaderSG_AlbedoTransparency.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version1/Bowie_Knife_unwrapChekcerShaderSG_AlbedoTransparency.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version1/Bowie_Knife_unwrapChekcerShaderSG_MetallicSmoothness.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version1/Bowie_Knife_unwrapChekcerShaderSG_MetallicSmoothness.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version1/Bowie_Knife_unwrapChekcerShaderSG_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version1/Bowie_Knife_unwrapChekcerShaderSG_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version1/Grayscale.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version1/Grayscale.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version1/New Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version1/New Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version1/New Material.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version1/New Material.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version2.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version2.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version2/Bowie_Knife_v2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version2/Bowie_Knife_v2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version2/Bowie_Knife_v2.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version2/Bowie_Knife_v2.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version2/Bowie_Knife_v2_a.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version2/Bowie_Knife_v2_a.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version2/Bowie_Knife_v2_ao.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version2/Bowie_Knife_v2_ao.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version2/Bowie_Knife_v2_n.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version2/Bowie_Knife_v2_n.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version2/Bowie_Knife_v2_s.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Assets/Western_weapons/Bowie_Knife/Textures&amp;Mat/Version2/Bowie_Knife_v2_s.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Knife_HIt.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Knife_HIt.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/AssetImportState" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/AssetImportState" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/CurrentLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/EditorUserBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/LastSceneManagerSetup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/LibraryFormatVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/LibraryFormatVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/expandedItems" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/01/01e02995805eb483690380a911a657e2" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/01/01e02995805eb483690380a911a657e2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/01/01e02995805eb483690380a911a657e2.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/01/01e02995805eb483690380a911a657e2.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/0c/0c36312666339c24c840fcb6b5e92ecf" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/0c/0c36312666339c24c840fcb6b5e92ecf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/26/26fe4b2e7b3b845a6b5668ad693669af" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/26/26fe4b2e7b3b845a6b5668ad693669af" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/26/26fe4b2e7b3b845a6b5668ad693669af.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/26/26fe4b2e7b3b845a6b5668ad693669af.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/27/27ce5eddbf1a34ea3a8182b5871c2806" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/27/27ce5eddbf1a34ea3a8182b5871c2806" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/27/27ce5eddbf1a34ea3a8182b5871c2806.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/27/27ce5eddbf1a34ea3a8182b5871c2806.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/2f/2febd0c993e0741fa9bd119683ee8921" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/2f/2febd0c993e0741fa9bd119683ee8921" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/2f/2febd0c993e0741fa9bd119683ee8921.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/2f/2febd0c993e0741fa9bd119683ee8921.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/3a/3a5c3b84fb58690419b53811ad02eaa6" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/3a/3a5c3b84fb58690419b53811ad02eaa6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/3a/3a5c3b84fb58690419b53811ad02eaa6.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/3a/3a5c3b84fb58690419b53811ad02eaa6.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/3b/3bb1c82771f0428459104bdada3eb06a.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/3b/3bb1c82771f0428459104bdada3eb06a.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/3c/3cf132d4fa07f4f0cb2883499c5c7dd0" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/3c/3cf132d4fa07f4f0cb2883499c5c7dd0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/3c/3cf132d4fa07f4f0cb2883499c5c7dd0.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/3c/3cf132d4fa07f4f0cb2883499c5c7dd0.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/3d/3d7380326a6e14e9688556154528086c" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/3d/3d7380326a6e14e9688556154528086c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/3d/3d7380326a6e14e9688556154528086c.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/3d/3d7380326a6e14e9688556154528086c.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/45/454402b38f9c0ca4c9b765f12c71585a.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/45/454402b38f9c0ca4c9b765f12c71585a.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/46/460636d894925441ba1debe037d2e343" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/46/460636d894925441ba1debe037d2e343" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/46/460636d894925441ba1debe037d2e343.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/46/460636d894925441ba1debe037d2e343.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/4d/4dfd3f5da88944ec6ac5977d676c30c6" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/4d/4dfd3f5da88944ec6ac5977d676c30c6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/4d/4dfd3f5da88944ec6ac5977d676c30c6.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/4d/4dfd3f5da88944ec6ac5977d676c30c6.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/54/54820846856014161a452f4eb38ab087" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/54/54820846856014161a452f4eb38ab087" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/54/54820846856014161a452f4eb38ab087.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/54/54820846856014161a452f4eb38ab087.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/5c/5c4f28f6254cd4e9fb5b1d7b51cb348c" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/5c/5c4f28f6254cd4e9fb5b1d7b51cb348c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/5c/5c4f28f6254cd4e9fb5b1d7b51cb348c.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/5c/5c4f28f6254cd4e9fb5b1d7b51cb348c.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/6f/6f5bd994b14db6b4ba008621821ee9eb" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/6f/6f5bd994b14db6b4ba008621821ee9eb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/6f/6f5bd994b14db6b4ba008621821ee9eb.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/6f/6f5bd994b14db6b4ba008621821ee9eb.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/6f/6f96d528348f3624a8476067e1996e8a" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/6f/6f96d528348f3624a8476067e1996e8a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/79/7922f1987378f544c8ff4d20e0cff9c6.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/79/7922f1987378f544c8ff4d20e0cff9c6.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/7c/7c403f6b3529944498d913eafe2bee11" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/7c/7c403f6b3529944498d913eafe2bee11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/7c/7c403f6b3529944498d913eafe2bee11.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/7c/7c403f6b3529944498d913eafe2bee11.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/8c/8c377692db9f03049930e2fd87e71877.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/8c/8c377692db9f03049930e2fd87e71877.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/91/91b7e7ada4141124cbac8d5e035d4b54" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/91/91b7e7ada4141124cbac8d5e035d4b54" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/91/91b7e7ada4141124cbac8d5e035d4b54.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/91/91b7e7ada4141124cbac8d5e035d4b54.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/95/95077ac1a27428f4cb087e309b312fdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/95/95077ac1a27428f4cb087e309b312fdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/95/95077ac1a27428f4cb087e309b312fdf.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/95/95077ac1a27428f4cb087e309b312fdf.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/99/99c9720ab356a0642a771bea13969a05" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/99/99c9720ab356a0642a771bea13969a05" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/99/99c9720ab356a0642a771bea13969a05.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/99/99c9720ab356a0642a771bea13969a05.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/a1/a1b06157fdd524f669d8355fbadd0889" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/a1/a1b06157fdd524f669d8355fbadd0889" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/a1/a1b06157fdd524f669d8355fbadd0889.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/a1/a1b06157fdd524f669d8355fbadd0889.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/a3/a372ce265d14840389df4dcbfb6a4570" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/a3/a372ce265d14840389df4dcbfb6a4570" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/a3/a372ce265d14840389df4dcbfb6a4570.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/a3/a372ce265d14840389df4dcbfb6a4570.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/ac/ac0b7a91900913f04ad101666f75ebc4.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/ac/ac0b7a91900913f04ad101666f75ebc4.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/ad/ada158396de238251397c9ce0567356d.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/ad/ada158396de238251397c9ce0567356d.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/b4/b44c1273e23eb2b42861bdbdc5da4a6a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/b4/b44c1273e23eb2b42861bdbdc5da4a6a.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/b7/b7c942fdd99751d25f75c6c28f0a6c3b.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/b7/b7c942fdd99751d25f75c6c28f0a6c3b.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/bc/bc7453ad8edbc9eddb25d17e4bb40fa3" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/bc/bc7453ad8edbc9eddb25d17e4bb40fa3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/bc/bc7453ad8edbc9eddb25d17e4bb40fa3.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/bc/bc7453ad8edbc9eddb25d17e4bb40fa3.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/c0/c08f594d1f3f904408c926af3c771eed.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/c0/c08f594d1f3f904408c926af3c771eed.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/c4/c4c68c906ab1d428fbdcd9e1316e6600" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/c4/c4c68c906ab1d428fbdcd9e1316e6600" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/c4/c4c68c906ab1d428fbdcd9e1316e6600.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/c4/c4c68c906ab1d428fbdcd9e1316e6600.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/ca/cac21115db4d21540a6e33730c620f62" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/ca/cac21115db4d21540a6e33730c620f62" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/ca/cac21115db4d21540a6e33730c620f62.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/ca/cac21115db4d21540a6e33730c620f62.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/d5/d5d8461883c694c9189b74d5ab60c3a5" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/d5/d5d8461883c694c9189b74d5ab60c3a5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/d5/d5d8461883c694c9189b74d5ab60c3a5.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/d5/d5d8461883c694c9189b74d5ab60c3a5.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/d6/d67361a21907a4524b851a0b4ba35b83" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/d6/d67361a21907a4524b851a0b4ba35b83" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/d6/d67361a21907a4524b851a0b4ba35b83.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/d6/d67361a21907a4524b851a0b4ba35b83.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/df/df092f71a8e287b429c6a78ad611a54a" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/df/df092f71a8e287b429c6a78ad611a54a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/df/df092f71a8e287b429c6a78ad611a54a.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/df/df092f71a8e287b429c6a78ad611a54a.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/ed/ed324159e95b04533968db171d71aac6" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/ed/ed324159e95b04533968db171d71aac6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/ed/ed324159e95b04533968db171d71aac6.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/ed/ed324159e95b04533968db171d71aac6.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/f8/f8eca3a711f4842eba0c52ea9885ef7f" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/f8/f8eca3a711f4842eba0c52ea9885ef7f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/f8/f8eca3a711f4842eba0c52ea9885ef7f.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/f8/f8eca3a711f4842eba0c52ea9885ef7f.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/fb/fb812a16147599b4ba69448005532872" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/metadata/fb/fb812a16147599b4ba69448005532872" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/obj/Debug/Assembly-CSharp.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/obj/Debug/Assembly-CSharp.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/obj/Debug/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/obj/Debug/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/obj/Debug/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/obj/Debug/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Knife_Hit/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Knife_Hit/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Match3/.vs/Match3/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../Match3/.vs/Match3/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Match3/.vs/Match3/v15/Server/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/../Match3/.vs/Match3/v15/Server/sqlite3/storage.ide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Match3/.vs/Match3/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/../Match3/.vs/Match3/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Match3/.vs/Match3/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/../Match3/.vs/Match3/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Match3/Assets/Prefabs/blue.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Match3/Assets/Prefabs/blue.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Match3/Assets/Prefabs/green.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Match3/Assets/Prefabs/green.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Match3/Assets/Prefabs/orange.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Match3/Assets/Prefabs/orange.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Match3/Assets/Prefabs/red.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Match3/Assets/Prefabs/red.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Match3/Assets/Prefabs/violet.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Match3/Assets/Prefabs/violet.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Match3/Assets/Scripts/Gems.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Match3/Assets/Scripts/Gems.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Match3/Assets/Scripts/GridCreator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Match3/Assets/Scripts/GridCreator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Match3/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../Match3/Library/CurrentLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Match3/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Match3/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Match3/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Match3/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Match3/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/../Match3/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Match3/Library/metadata/00/00e8ba228d9b72e498e7cebb8d8f45ea" beforeDir="false" afterPath="$PROJECT_DIR$/../Match3/Library/metadata/00/00e8ba228d9b72e498e7cebb8d8f45ea" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Match3/Library/metadata/ad/ad7cc4d2c444c1840898bc10eb5ec5a7" beforeDir="false" afterPath="$PROJECT_DIR$/../Match3/Library/metadata/ad/ad7cc4d2c444c1840898bc10eb5ec5a7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Match3/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Match3/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Match3/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Match3/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1372840239">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+              <folding>
+                <marker date="1541613940483" expanded="false" signature="6:78" ph="..." />
+                <marker date="1541613940483" expanded="true" signature="124:517" ph="{...}" />
+                <marker date="1541613940483" expanded="true" signature="192:439" ph="{...}" />
+                <marker date="1541613940483" expanded="true" signature="234:295" ph="{...}" />
+                <marker date="1541613940483" expanded="true" signature="334:399" ph="{...}" />
+                <marker date="1541613940483" expanded="true" signature="486:515" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-95" />
+    <option name="y" value="65" />
+    <option name="width" value="1440" />
+    <option name="height" value="765" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="do_not_show_unity_auto_save_notification" value="true" />
+    <property name="settings.editor.selected.configurable" value="RiderAspCSFileTemplatesSettingsId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc495898-0b59-4642-b53d-e4c1470b4e27" name="Default Changelist" comment="" />
+      <created>1541613850591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541613850591</updated>
+      <workItem from="1541613870357" duration="549000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="549000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-76" y="52" width="1152" height="612" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Event Log" side_tool="true" visible="true" weight="0.32985386" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Tetris/Assets/Scripts/GameController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <marker date="1541613940483" expanded="false" signature="6:78" ph="..." />
+            <marker date="1541613940483" expanded="true" signature="124:517" ph="{...}" />
+            <marker date="1541613940483" expanded="true" signature="192:439" ph="{...}" />
+            <marker date="1541613940483" expanded="true" signature="234:295" ph="{...}" />
+            <marker date="1541613940483" expanded="true" signature="334:399" ph="{...}" />
+            <marker date="1541613940483" expanded="true" signature="486:515" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
